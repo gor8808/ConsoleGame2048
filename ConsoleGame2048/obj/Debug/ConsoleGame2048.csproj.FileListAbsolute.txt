@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\bin\Debug\ConsoleGame2048.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\bin\Debug\ConsoleGame2048.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\bin\Debug\Game2048.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\bin\Debug\Game2048.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.csproj.CopyComplete
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.pdb
